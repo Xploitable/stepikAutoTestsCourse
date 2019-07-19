@@ -1,2 +1,2 @@
 # stepikAutoTestsCourse
-Homeworks for automating testing course (Selenium+Python)
+Homeworks for automating testing course (Selenium+Python) #nevermind
